@@ -13,5 +13,5 @@ class Appointment:
 
 # Sample usage  
 if __name__ == "__main__":  
-    appointment1 = Appointment("John Doe", "Smith", "2024-07-15", "10:30 AM", "New York", "NY")  
+    appointment1 = Appointment("John Doe", "Smith", "2024-07-14", "10:30 AM", "New York", "NY")  
     print(appointment1.schedule())  
